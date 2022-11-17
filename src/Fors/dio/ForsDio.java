@@ -6,7 +6,7 @@ public class ForsDio {
             System.out.println("I="+i);
         }
         for(int X=0;X <= 5;X++)
-           System.out.println("X="+X);
+           System.out.println("X é ="+X);
         
     }    
 }

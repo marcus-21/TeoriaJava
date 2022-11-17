@@ -6,7 +6,7 @@ import java.util.Date;
 public class DatasDio {
    public static void main(String[] args) {
         
-        /*Date newData = new Date();
+        Date newData = new Date();
         System.out.println(newdata);*/
         
         /*Long currentTimeMillis = System.currentTimeMillis();
@@ -40,7 +40,7 @@ public class DatasDio {
         System.out.println(compareCase2); // 1
         System.out.println(compareCase3);*/
         
-        Date dataInicio = new Date(1513124807691L);
+        /*Date dataInicio = new Date(1513124807691L);
         System.out.println(dataInicio);
         // Tue Dec 12 22:26:47 BRST 2017
 
