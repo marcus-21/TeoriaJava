@@ -47,22 +47,5 @@ public class DatasDio {
         Instant instant = dataInicio.toInstant();
         System.out.println(instant);
         // 2017-12-13T00:26:47.691Z
-        
-      
-                
-    
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-    }
+    } 
 }
